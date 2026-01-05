@@ -28,17 +28,17 @@ main section {
   transition: all 0.7s cubic-bezier(0.19, 1, 0.22, 1);
 }
 main section:nth-child(1) {
-  background-image: url("/dustin.jpg");
+  background-image: url("images/dustin.jpg");
 }
 main section:nth-child(2) {
-  background-image: url("/Will.jpg");
+  background-image: url("images/Will.jpg");
 }
 main section:nth-child(3) {
-  background-image: url("/vecea.jpg");
+  background-image: url("images/vecea.jpg");
 }
 main section:nth-child(4) {
-  background-image: url("/Mike.jpg");
+  background-image: url("images/Mike.jpg");
 }
 main section:nth-child(5) {
-  background-image: url("/Eleven.jpg");
+  background-image: url("images/Eleven.jpg");
 }/*# sourceMappingURL=style.css.map */
