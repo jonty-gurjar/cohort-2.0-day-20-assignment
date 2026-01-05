@@ -30,18 +30,18 @@ main{
         
     }
     section:nth-child(1){
-        background-image: url('/images/dustin.jpg');
+        background-image: src('/images/dustin.jpg');
     }
     section:nth-child(2){
-        background-image: url('/images/Will.jpg');
+        background-image: src('/images/Will.jpg');
     }
     section:nth-child(3){
-        background-image: url('/images/vecea.jpg');
+        background-image: src('/images/vecea.jpg');
     }
     section:nth-child(4){
-        background-image: url('/images/Mike.jpg');
+        background-image: src('/images/Mike.jpg');
     }
     section:nth-child(5){
-        background-image: url('/images/Eleven.jpg');
+        background-image: src('/images/Eleven.jpg');
     }
 }
